@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Amos-CFAAutoModeler", "Amos26-PatternMatrixBuilder\Amos-CFAAutoModeler.vbproj", "{563DCB45-183D-4117-9DFA-A0252C086806}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Amos-CFAAutoModeler", "Amos23-PatternMatrixBuilder\Amos-CFAAutoModeler.vbproj", "{563DCB45-183D-4117-9DFA-A0252C086806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
